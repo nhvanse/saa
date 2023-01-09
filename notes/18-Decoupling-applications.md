@@ -5,6 +5,7 @@ Contains: SQS, SNS, Kinesis, Active MQ
 - [SQS - Message Visibility Timeout](#sqs---message-visibility-timeout)
 - [SQS - Long polling](#sqs---long-polling)
 - [SQS - FIFO Queue](#sqs---fifo-queue)
+- [SQS with ASG](#sqs-with-asg)
 
 # Introduction
 
