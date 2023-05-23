@@ -16,5 +16,6 @@
 - ![picture 5](image/22-Data-And-Analytics/2-Redshift-Cluster.png)  
 - ![picture 6](image/22-Data-And-Analytics/2-Reddshift-snapshot.png)  
 - ![picture 7](image/22-Data-And-Analytics/2-Redshift-load-data.png)
+- <img alt="picture 10" src="image/22-Data-And-Analytics/2-Redshift-Spectrum.png" width="800" />  
 
 
