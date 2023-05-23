@@ -1,3 +1,4 @@
 
-![](images/4-IAM-summary.jpg)
-![](images/4-IAM-best-practices.png)
+![picture 2](image/4-IAM/IAM-summary.png)  
+
+![picture 1](image/4-IAM/IAM-best-practice.png)  

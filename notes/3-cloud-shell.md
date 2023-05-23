@@ -1,3 +1,3 @@
 
 
-![](./images/3-cloud-shell.png)
+![picture 1](image/3-cloud-shell/cloud-shell.png)  
