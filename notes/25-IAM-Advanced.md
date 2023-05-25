@@ -1,5 +1,12 @@
-
 - [AWS Organizations](#aws-organizations)
+- [IAM Advanced Polices](#iam-advanced-polices)
+- [IAM Resource based Policies vs IAM Roles](#iam-resource-based-policies-vs-iam-roles)
+- [IAM Policy Evaluation Logic](#iam-policy-evaluation-logic)
+- [IAM Identity Center](#iam-identity-center)
+- [AWS Directory Services](#aws-directory-services)
+- [AWS Control Tower](#aws-control-tower)
+- [Quiz](#quiz)
+
 
 
 # AWS Organizations
@@ -13,7 +20,7 @@
 - <img alt="picture 7" src="image/25-IAM-Advanced/1-AWS-Organizations-Policies.png" width="800" />  
 
 
-# IAM - Advanced Polices
+# IAM Advanced Polices
 
 - IAM Conditions
   - <img alt="picture 8" src="image/25-IAM-Advanced/2-IAM-Conditions-Examples.png" width="800" />  
@@ -23,7 +30,7 @@
 
 
 
-# IAM - Resource-based Policies vs IAM Roles
+# IAM Resource based Policies vs IAM Roles
 - 2 way to apply policies
   - <img alt="picture 10" src="image/25-IAM-Advanced/3-Roles-vs-Resource-Polices.png" width="800" />  
   - <img alt="picture 11" src="image/25-IAM-Advanced/3-Roles-vs-Resource-Policies-1.png" width="800" />  
@@ -33,7 +40,7 @@
   - <img alt="picture 12" src="image/25-IAM-Advanced/3-Role-vs-Resource-Policy.png" width="800" />  
 
 
-# IAM - Policy Evaluation Logic
+# IAM Policy Evaluation Logic
 - IAM Permission Boundaries
   - <img alt="picture 13" src="image/25-IAM-Advanced/4-Policy-Evaluation-Permission-Boundaries.png" width="800" />  
 - Example: 
