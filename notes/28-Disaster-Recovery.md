@@ -1,5 +1,13 @@
 
 - [Overview](#overview)
+- [Database Migration Service DMS](#database-migration-service-dms)
+- [RDS and Aurora Migrations](#rds-and-aurora-migrations)
+- [On-Premise strategy with AWS](#on-premise-strategy-with-aws)
+- [AWS Backup](#aws-backup)
+- [Application Migration Service MGN](#application-migration-service-mgn)
+- [Transfering Large Datasets into AWS](#transfering-large-datasets-into-aws)
+- [VMWare Cloud on AWS](#vmware-cloud-on-aws)
+- [Quiz](#quiz)
 
 
 # Overview
@@ -40,7 +48,7 @@
   - <img alt="picture 9" src="image/28-Disaster-Recovery/1-Tips.png" width="800" />  
 
 
-# Database Migration Service (DMS)
+# Database Migration Service DMS
 - Overview
   - Note: CDC - Change Data Capture
   - Must create EC2 instance and run DMS on it
@@ -87,7 +95,7 @@
     - can specify tags to filter resources
     - 
 
-# Application Migration Service (MGN)
+# Application Migration Service MGN
 - AWS Application Discovery Service
   - <img alt="picture 22" src="image/28-Disaster-Recovery/6-Application-Discovery-Service.png" width="800" />  
 - Application Migration Service
