@@ -1,5 +1,13 @@
 
 - [CloudFormation](#cloudformation)
+- [Amazon SES](#amazon-ses)
+- [PinPoint](#pinpoint)
+- [SSM Session Manager](#ssm-session-manager)
+- [SSM Other Services](#ssm-other-services)
+- [Cost Explorer](#cost-explorer)
+- [Elastic Transcoder](#elastic-transcoder)
+- [AWS Batch](#aws-batch)
+- [Amazon AppFlow](#amazon-appflow)
 
 
 # CloudFormation
